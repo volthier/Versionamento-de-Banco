@@ -21,5 +21,7 @@ https://www.sitepoint.com/versioning-your-database-with-liquibase/
 
 https://dicasdolampada.wordpress.com/2012/03/19/evoluindo-o-banco-de-dados-com-o-liquibase/
 
+https://github.com/sequenceiq/docker-liquibase
+
 
 Liquibase consists of change sets which are basically a small set of changes applied to the database. Liquibase tracks the execution of the change sets and records them in a change log table. Change sets can be created representing multiple releases and organized in a sequential order in the change log file. This allows for versioning the database updates and maintaining all the scripts in a central location. Whenever a change needs to be applied to database, we can create a new change set and add it to the change log. This allows for having an immutable log of all the database schema changes and minimizes any risk of inadvertently applying a wrong patch during application install or database migration.
