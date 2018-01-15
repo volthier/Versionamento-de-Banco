@@ -1,6 +1,6 @@
 # Versionamento De Banco de Dados.
 
-Esse repositório aborda o uso da biblioteca **[Liquibase](http://www.liquibase.org/index.html)** de codigo aberto. Especialemnte utilizada em ambientes de desenvolvimento ágil para mapeamento, monitoramento e aplicação de mudanças em esquemas de base de dados.
+Esse repositório aborda o uso da biblioteca **[Liquibase](http://www.liquibase.org/index.html)** de codigo aberto. Geralmente utilizada em ambientes de desenvolvimento ágil para mapeamento, monitoramento e aplicação de mudanças em esquemas de base de dados.
 
 > **Suporta:** *MySQL,	PostgreSQL, Oracle_11g, Sql_Server, Sybase_Enterprise, Sybase_Anywhere, DB2, Apache_Derby, HSQL, H2,	Informix, Firebird e SQLite.*
 
