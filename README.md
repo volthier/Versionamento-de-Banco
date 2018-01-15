@@ -6,7 +6,7 @@ Esse repositório aborda o uso da biblioteca **[Liquibase](http://www.liquibase.
 
 ## Liquibase 
 
-Os Scripts podem ser escritos em formatos como JSON, XML, YAML e etc. Isso faz com que sejá facil efetuar migrações de uma base relacional para outra ao utilizar o liquibase para o serviço pesado de transcrever os scripts para o SQL especifico da cada base de dados.
+Os Scripts podem ser escritos em formatos como JSON, XML, YAML e SQL. Isso faz com que sejá facil efetuar migrações de uma base relacional para outra ao utilizar o liquibase para o serviço pesado de transcrever os scripts para o SQL especifico da cada base de dados.
 
 ### Estrutura de pastas
 
